@@ -20,4 +20,3 @@ int main(){
     std::cout << "The proportion of fission in the specific mass is: " << total_prop_of_fission ;
 
 }
-
